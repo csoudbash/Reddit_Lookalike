@@ -1,0 +1,88 @@
+body{
+  background-color: #DAE0E6
+
+}
+.header{
+background-color: #FFFFFF;
+margin: auto;
+display: block;
+}
+.articles{
+  display: flex;
+  margin: 0 auto;
+  height: 300px;
+  width: 800px;
+  justify-content: space-between;
+  border: 10px solid black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100%
+}
+.box1{
+  border: 5px solid black;
+  border-radius: .25em;
+  align-self: center;
+  background-color: inherit;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  margin-left: 25px;
+  margin-right: 25px;
+  background-image: url('https://fthmb.tqn.com/RcAhKq5TC0fzSygc4B_bmUHPGTI=/5120x3427/filters:fill(auto,1)/atlantic-bottlenose-dolphin--jumping-high-during-a-dolphin-training-demonstration-154724035-59ce93949abed50011352530.jpg');
+
+}
+.box2{
+  border: 5px solid black;
+  border-radius: .25em;
+  align-self: center;
+  background-color: inherit;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  margin-left: 25px;
+  margin-right: 25px
+}
+.box3{
+  border: 5px solid black;
+  border-radius: .25em;
+  align-self: center;
+  background-color: inherit;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  margin-left: 25px;
+  margin-right: 25px
+}
+.box4{
+  border: 5px solid black;
+  border-radius: .25em;
+  align-self: center;
+  background-color: inherit;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  margin-left: 25px;
+  margin-right: 25px
+}
+.communitytab{
+  position: relative;
+  width: 200px;
+  display: grid;
+  column-count: 1;
+  justify-content: center;
+  align-items: flex-end;
+  flex-wrap: wrap;
+  padding: 30px;
+  margin-top: 8%;
+  background-color: #FFFFFF
+  border: 5px solid black;
+  border-radius: .25em;
+}
+.communitytab.communitytab1{
+width: 50px;
+position: relative;
+height: 15px;
+}
